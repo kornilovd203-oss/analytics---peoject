@@ -1,2 +1,2 @@
-# analytics---peoject
+# analytics---project
 Проект по аналитике. Очистка данных, статистика, rfm анализи
