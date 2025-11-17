@@ -1,2 +1,3 @@
-# analytics---project
-Проект по аналитике. Очистка данных, статистика, rfm анализи
+# analytics project(pandas)
+
+Анализ датасета с kaglle
